@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//www.patika.dev
 /*
 Armstrong Sayı Nedir ?
 N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
